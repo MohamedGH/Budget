@@ -1,0 +1,6 @@
+{
+  "name": "BudgetCraft - Personal Budget & Financial Analytics",
+  "description": "Real-time personal budget management, live financial visualizations, smart bank statement import, and custom CSV report exporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
